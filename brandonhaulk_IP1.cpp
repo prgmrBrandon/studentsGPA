@@ -1,5 +1,3 @@
-//#include "stdafx.h"
-// #include "GreetingMessage.h"
 #include <iostream>
 #include <string>
 #include <iomanip>
